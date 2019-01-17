@@ -18,4 +18,4 @@ galaxy_info:
     #       Maximum 20 tags per role.
 
 dependencies: 
-  - taiosolve.unzip
+  - allanice001.unzip
